@@ -1,5 +1,5 @@
 {
-    "name": "sulu/document-manager",
+    "name": "mvmaasakkers/document-manager",
     "description": "Sulu Document Manager",
     "require": {
         "symfony/event-dispatcher": "~3.0 || ~4.0",
